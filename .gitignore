@@ -1,0 +1,28 @@
+# Compiled class files & Maven build output
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Runtime data, keystores, tokens, and storage directories
+data/
+runtime/
+*.jceks
+*.p12
+*.jks
+*.key
+*.pub
+*.token
+*.ser
+*.db
+retrieved_*
+
+# OS & IDE files
+.DS_Store
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
